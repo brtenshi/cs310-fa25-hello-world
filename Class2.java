@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Kason Martichuski
  */
 
 public class Class2 {
